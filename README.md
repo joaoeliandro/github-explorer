@@ -41,7 +41,7 @@
 ## About
 
 **Project to improve my programming skills.**
-> *** Github Explorer *** is a small project to improve some programming knowledge using typescript, react, react hooks, prettier, eslint and styled components. From there, it is where more projects are being perfected.
+> ***Github Explorer*** is a small project to improve some programming knowledge using typescript, react, react hooks, prettier, eslint and styled components. From there, it is where more projects are being perfected.
 
 ---
 
