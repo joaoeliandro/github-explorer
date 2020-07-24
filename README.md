@@ -38,8 +38,6 @@
   <a href="#memo-license">License</a>
 </p>
 
----
-
 ## About
 
 **Project to improve my programming skills.**
